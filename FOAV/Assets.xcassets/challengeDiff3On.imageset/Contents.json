@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "challengeDiff3On.png",
+      "scale" : "1x",
+      "idiom" : "universal"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "challengeDiff3On@2x.png",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "challengeDiff3On@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
